@@ -1,0 +1,6 @@
+@VentaVideojuegosApi_HostAddress = http://localhost:5285
+
+GET {{VentaVideojuegosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
